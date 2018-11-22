@@ -1,0 +1,16 @@
+{
+     "smartling" :
+        {
+			"string_format" : "icu"
+        },
+     "1" : "{number} results.",
+     "2" : "SORT & FILTER.",
+	 "3" : "Non-Stop",
+	 "4" : "via {provider}",
+     "5" : "{stop_count, plural, one {{stop_count} stop.} other {{stop_count} stops.}}",
+	 "6" : "Search",
+	 "7" : "Explore",
+	 "8" : "Trips",
+	 "9" : "Profile",
+}
+
